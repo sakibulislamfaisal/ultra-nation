@@ -1,0 +1,21 @@
+.country .country-flag img {
+  height: 70px;
+}
+.country {
+  border: 1px solid green;
+  padding: 10px;
+  margin: 10px;
+}
+.country-info {
+  color: blue;
+  font-weight: 400;
+}
+.main-button {
+  background-color: darkslategray;
+  width: 200px;
+  height: 30px;
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
